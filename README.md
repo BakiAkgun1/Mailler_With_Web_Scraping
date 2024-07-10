@@ -55,5 +55,5 @@ Your email credentials (sender email, receiver email, SMTP server, and port).
 -Requests
 -Python email library
 
-##Author
+## Author
 Baki Akgün
