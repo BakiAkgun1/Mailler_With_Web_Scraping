@@ -50,9 +50,10 @@ Your email credentials (sender email, receiver email, SMTP server, and port).
 ![Screenshot 2024-07-10 162931](https://github.com/BakiAkgun1/Mailler_With_Web_Scraping/assets/118991077/50685c84-2e23-4579-a281-1bcb83474da4)
 
 ## Acknowledgements
--Beautiful Soup
--Requests
--Python email library
+
+- Beautiful Soup
+- Requests
+- Python email library
 
 ## Author
 Baki Akgün
