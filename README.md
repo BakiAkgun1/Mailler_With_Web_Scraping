@@ -56,4 +56,5 @@ Your email credentials (sender email, receiver email, SMTP server, and port).
 - Python email library
 
 ## Author
-Baki Akgün
+[Baki Akgün
+](https://github.com/BakiAkgun1)
